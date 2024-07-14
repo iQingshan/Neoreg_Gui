@@ -37,7 +37,7 @@ banner = r"""
            $$                 '$$$
 
 
-    [ Github ] https://github.com/iqingshan/Neo_Gui
+    [ Github ] https://github.com/iQingshan/Neoreg_Gui
 """.format(__version__)
 
 class gui():
